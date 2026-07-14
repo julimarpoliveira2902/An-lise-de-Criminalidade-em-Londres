@@ -34,6 +34,8 @@ ORDER BY crime_date DESC
 
 📊 O Dashboard
 
+![Demonstração do Dashboard](imagens/analise_crimes_em_londres.png)
+
 O painel final oferece uma análise focada em:
 
 Evolução Temporal: Identificação de tendências de aumento ou queda da criminalidade ao longo dos anos.
